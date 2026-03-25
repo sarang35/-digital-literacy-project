@@ -1,8 +1,0 @@
-Case Study: UPI / Online Payment Fraud
-UPI installment extortion has ended up one of the most common cybercrimes in later a long time, particularly in nations like India where advanced installments are broadly utilized. This sort of extortion as a rule happens when scammers trap individuals into sharing touchy data or favoring fake installment requests.
-
-A commonplace case starts with a fraudster reaching the casualty through a phone call, message, or indeed a fake client care number. They regularly imagine to be a bank official or a vender from an online commercial center. To begin with, they construct believe by talking certainly and making direness. At that point, they inquire the casualty to press on a connect, check a QR code, or favor a “request” in their UPI app. Numerous individuals don’t realize that checking a QR code or favoring a ask can really send cash instep of accepting it. Once the casualty completes the activity, cash is right away exchanged to the scammer’s account.
-
-Students, elderly individuals, and those who are not exceptionally commonplace with advanced installments are more often than not the primary targets. The results can be genuine, extending from budgetary misfortune to enthusiastic push and misfortune of certainty in online systems.
-
-This case highlights the significance of mindfulness. Basic safeguards like never sharing OTPs, double-checking installment demands, and maintaining a strategic distance from obscure joins can make a enormous distinction in remaining secure online.
