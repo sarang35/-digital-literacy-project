@@ -15,19 +15,19 @@ This project is a Digital Literacy Portfolio created as part of the CSE0001 cour
 ## ✅ Tasks Completed
 
 ### 🟢 Task 1 – Infographic
-Created a digital literacy awareness infographic using Canva covering safe internet practices and professional presence.
+I created a digital literacy awareness infographic using Canva, focusing on safe internet practices and professional online presence. It includes key tips like using strong passwords, avoiding phishing, and protecting personal data. The design uses simple layout, soft colors, and icons for clarity. Overall, it shows the importance of using technology safely and responsibly.
 
 ### 🟢 Task 2 – Digital Portfolio
-Set up and updated profiles on GitHub, LinkedIn, and HackerRank.
+I set up and upgraded my advanced portfolio by making profiles on GitHub, LinkedIn, and HackerRank. I included pertinent scholastic points of interest, abilities, and ventures to grandstand my capacities. Each profile was organized to reflect a proficient online nearness. This made a difference me construct a solid computerized personality and move forward my perceivability for future openings.
 
 ### 🟢 Task 3 – Platforms
-Solved a beginner coding problem on HackerRank and created a Google Form quiz.
+I have done a  beginner-level coding problem on HackerRank to improve my problem-solving skills and I moreover made a Google Shape test to test computerized education mindfulness. This made a difference me get it down to earth applications of online apparatuses. In general, it upgraded both my coding hone and advanced aptitudes.
 
 ### 🟢 Task 4 – Email Etiquette
-Drafted professional emails and created a social media do’s and don’ts checklist.
+I drafted proficient emails taking after legitimate organize and tone. I centered on clear subject lines, neighborly dialect, and organized substance. I moreover made a social media do’s and don’ts checklist to advance capable online behavior. This errand made a difference me move forward my communication and computerized behavior aptitudes.
 
 ### 🟢 Task 5 – Cybercrime Awareness
-Prepared a phishing case study and a prevention checklist.
+I arranged a phishing case ponder to get it how online tricks work. I too made a anticipation checklist with tips like maintaining a strategic distance from suspicious joins and confirming sources. This errand made strides my mindfulness of cyber dangers. It made a difference me learn how to remain secure online and ensure individual data.
 
 ---
 
